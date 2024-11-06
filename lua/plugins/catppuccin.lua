@@ -73,6 +73,8 @@ return {
                 ["@method.call"] = { style = { "italic" } },
                 ["@module"] = { fg = color.gray800 },
 
+                rustCommentLineDoc = { fg = color.gray400 },
+                cssMedia = { fg = color.violet800 },
                 WhichKeyDesc = { fg = color.gray800 },
             }
         end,
